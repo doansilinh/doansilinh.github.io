@@ -56,7 +56,7 @@ export default function Home() {
           />
         </div>
         
-        <h1 className="text-2xl font-bold mb-1 text-white uppercase tracking-tight">Doan Si Linh</h1>
+        <h1 className="text-2xl font-bold mb-1 text-white tracking-tight">Doan Si Linh</h1>
         <p className="text-white font-bold text-lg mb-8">Data Engineer | AI Engineer</p>
 
         {/* Links Section */}

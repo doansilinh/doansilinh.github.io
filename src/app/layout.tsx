@@ -8,7 +8,7 @@ const nunito = Nunito({
 });
 
 export const metadata: Metadata = {
-  title: "Doan Si Linh | Link in Bio",
+  title: "Doan Si Linh",
   description: "Data Engineer | AI Engineer",
 };
 

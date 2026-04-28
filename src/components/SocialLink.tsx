@@ -20,7 +20,7 @@ export const SocialLink: React.FC<SocialLinkProps> = ({ label, href, icon, hover
         "--hover-bg": hoverColor,
       } as React.CSSProperties}
     >
-      <div className="absolute left-6 group-hover:-translate-y-1 transition-transform duration-300">
+      <div className="absolute left-6 group-hover:-translate-y-0.5 transition-transform duration-300">
         {icon}
       </div>
       <span className="w-full text-center">{label}</span>
